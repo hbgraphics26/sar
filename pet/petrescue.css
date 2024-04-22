@@ -1,0 +1,64 @@
+body {
+    margin: 0 0;
+    font-family: sans-serif;
+    text-align: center;
+    background: #b5fff9 no-repeat center 100px fixed;
+    font-weight: 400;
+    }
+    header {
+      background-color: #67b6ff;
+      text-align: center;
+    }
+    h1 {
+      color: #ffffff;
+      font-size: 4em;
+      text-align: center;
+      font-family: "Pinyon Script";
+        font-optical-sizing: auto;
+        font-weight: 400;
+        font-style: normal;
+      }
+      h2 {
+      color: #6d6d6d;
+      font-size: 2em;
+      text-align: center;
+      }
+      p {
+        color: black
+      }
+
+  a {
+    text-decoration: none;
+  }
+  a:link {
+    color: rgb(0, 10, 97);
+  }
+  a:visited {
+    color: #003aa5f7;
+  }
+  a:focus, a:hover {
+    color: #001780;
+    background-color: #e9e9e9;
+  }
+  a:active {
+    color: #001780;
+    background-color: #e9e9e9;
+  }
+  table, td, th {
+    background-color: white;
+  }
+  strong {
+    font-style: italic;
+  }
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  footer {
+    border-top: 1px solid #0a0038f7;
+    text-align: center;
+    padding-top: 1em;
+    background-color: #67b6ff;
+  }
